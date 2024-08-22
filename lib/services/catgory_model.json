@@ -1,0 +1,67 @@
+{
+  "catagory": [
+    {"Name": "Women Clothing",
+      "subcatagory": [
+        "Weeding & Event",
+        "Top & Sets",
+        "Watches"
+      ]
+
+    },{
+"Name": "Man Clothing and  Fashion",
+      "subcatagory":[
+      "Outewear &  Jackets",
+      "Formal Dress",
+      "Accessiories"
+      ]},
+    {
+      "Name": "Computer Asseries",
+      "subcatagory":[
+        "Laptop",
+        "Gaming Pc",
+        "Offical Equpments"
+      ]},
+    {
+      "Name": "Auto Mobile",
+      "subcatagory":[
+        "Cars",
+        "Bikes",
+        "Buses"
+      ]},
+    {
+      "Name": "Kids Toys",
+      "subcatagory":[
+        "Shoes",
+        "Baby cloth",
+        "Girls Toys "
+      ]},
+    {
+      "Name": "Sports",
+      "subcatagory":[
+        "Cycling",
+        "Snakers",
+        "Swiming"
+      ]},
+    {
+      "Name": "Juewlery",
+      "subcatagory":[
+        "ring",
+        "Gold",
+        "necklace"
+      ]},
+    {
+      "Name": "Cell Phone",
+      "subcatagory":[
+        "Oppo 20",
+        "Q Mobile",
+        "Sumsung"
+      ]},
+    {
+      "Name": "Furniture",
+      "subcatagory":[
+        "Chair",
+        "Tables",
+        "Bed"
+      ]}
+  ]
+}

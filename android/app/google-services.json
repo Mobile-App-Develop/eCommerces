@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88587075638",
+    "project_id": "emarts-7703e",
+    "storage_bucket": "emarts-7703e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88587075638:android:02ea03a965b53a191d1897",
+        "android_client_info": {
+          "package_name": "com.example.marting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyb-lZMiMq8QAWgvxHwOU_ZF01jYcsM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
